@@ -33,16 +33,18 @@ Este proyecto implementa una aplicación en **C** que permite administrar ticket
    - Muestra toda su información si existe, o un mensaje de error si no.
 
 ---
+### 👤 Nombre
 
+- Ignacio Calderón
+
+  
 ## 🛠️ Compilación y ejecución
 
 ### 🧪 Requisitos
 - Compilador C (por ejemplo, `gcc`)
 - Sistema compatible con funciones estándar de C (`stdio.h`, `stdlib.h`, `string.h`, `time.h`)
 
-### 👤 Nombre
 
-- Ignacio Calderón
 
 ### 🔧 Compilar el programa
 ```bash
